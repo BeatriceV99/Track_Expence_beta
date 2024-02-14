@@ -42,9 +42,10 @@
     <string name="EA_category_extra">specify the category...</string>
     <string name="EA_date">Date</string>
     <string name="EA_reminder">Reminder</string>
+    <string name="EA_repeat_title">Repeat</string>
     <string name="EA_notes">Notes</string>
     <string name="EA_notes_field">Insert notes here...</string>
-    <string name="EA_save">Save</string>
+    <string name="EA_save">SAVE</string>
     <string name="EA_error_title">Expense title is required</string>
     <string name="EA_error_amount">Expense amount is required</string>
     <string name="EA_error_category">Expense category is required</string>

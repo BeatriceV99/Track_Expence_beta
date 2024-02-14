@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="category">
+        <item>@string/ELF_filter_category</item>
+        <item>@string/ELF_filter_category_free</item>
+        <item>@string/ELF_filter_category_house</item>
+        <item>@string/ELF_filter_category_food</item>
+        <item>@string/ELF_filter_category_education</item>
+        <item>@string/ELF_filter_category_health</item>
+        <item>@string/ELF_filter_category_other</item>
+    </string-array>
+
+</resources>
