@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Track Expense</string>
+    <!-- Splash Activity -->
+    <string name="neededPermissions">To go over, the app needs the PHOTO LIBRARY and NOTIFICATION PERMISSIONS</string>
+    <string name="grantPermission">Grant Now</string>
+    <!-- Registration Activity -->
+    <string name="insertFirstname">Insert Firstname...</string>
+    <string name="insertLastname">Insert Lastname...</string>
+    <string name="insertEmail">Insert email address...</string>
+    <string name="insertPassword">Insert password...</string>
+    <string name="insertNewPassword">Insert new password...</string>
+    <string name="goToLogin">"Do you already have an account? Click here and login! "</string>
+    <string name="signup">Signup</string>
+    <string name="errorFirstname">Firstname is required</string>
+    <string name="errorLastname">Lastname is required</string>
+    <string name="errorEmail">E-mail is required</string>
+    <string name="errorPassword">Password is required</string>
+    <string name="errorPassword2">Passwords are different</string>
+    <!-- Login Activity -->
+    <string name="goToRegister">Not registered? Click here to create a new account!</string>
+    <string name="forgotPassword">Forgot Password? Click here</string>
+    <string name="login">Login</string>
+    <!-- Forgot Password -->
+    <string name="send">Send</string>
+    <string name="forgotPassword_toast_ok">Reset password email sent successfully</string>
+    <string name="forgotPassword_toast_ko">ERROR. Reset password email not sent</string>
+    <!-- Create an Expense -->
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="calendarId">ID Calendar</string>
+    <string name="eventId">ID Event</string>
+    <string name="startDate">Start Date</string>
+    <string name="save">Save</string>
+    <string name="deadline_reminders">Deadline reminders</string>
+    <!--ExpenseActivity-->
+    <string name="EA_title">My Expense</string>
+    <string name="EA_expense_title">Expense title</string>
+    <string name="EA_expense">Insert title of expense...</string>
+    <string name="EA_amount">Amount</string>
+    <string name="EA_amount_field">Insert amount here...</string>
+    <string name="EA_category">Category</string>
+    <string name="EA_category_extra">specify the category...</string>
+    <string name="EA_date">Date</string>
+    <string name="EA_reminder">Reminder</string>
+    <string name="EA_notes">Notes</string>
+    <string name="EA_notes_field">Insert notes here...</string>
+    <string name="EA_save">Save</string>
+    <string name="EA_error_title">Expense title is required</string>
+    <string name="EA_error_amount">Expense amount is required</string>
+    <string name="EA_error_category">Expense category is required</string>
+    <string name="EA_toast_ok">Expense inserted successfully</string>
+    <string name="EA_toast_ok_edit">Expense updated successfully</string>
+    <string name="EA_toast_ko">ERROR. Expense not inserted</string>
+    <string name="EA_toast_ok_rem">Expense inserted successfully. Reminder created in date:</string>
+    <string name="EA_toast_ok_rem_edit">Expense updated successfully. Reminder created in date:</string>
+
+    <!--ExpenseListFragment-->
+    <string name="ELF_back" translatable="false">Go back</string>
+    <string name="ELF_toast_ok">Expense deleted</string>
+    <string name="ELF_toast_ko">ERROR. Expense NOT deleted</string>
+    <!--Filter Category-->
+    <string name="ELF_filter_category">Category</string>
+    <string name="ELF_filter_category_free" translatable="false">Free Time</string>
+    <string name="ELF_filter_category_house" translatable="false">Household</string>
+    <string name="ELF_filter_category_food" translatable="false">Food</string>
+    <string name="ELF_filter_category_education" translatable="false">Education</string>
+    <string name="ELF_filter_category_health" translatable="false">Health</string>
+    <string name="ELF_filter_category_other" translatable="false">Other</string>
+    <!--Filter Month-->
+    <string name="ELF_filter_month">Month</string>
+    <string name="ELF_filter_month1">January</string>
+    <string name="ELF_filter_month2">February</string>
+    <string name="ELF_filter_month3">March</string>
+    <string name="ELF_filter_month4">April</string>
+    <string name="ELF_filter_month5">May</string>
+    <string name="ELF_filter_month6">June</string>
+    <string name="ELF_filter_month7">July</string>
+    <string name="ELF_filter_month8">August</string>
+    <string name="ELF_filter_month9">September</string>
+    <string name="ELF_filter_month10">October</string>
+    <string name="ELF_filter_month11">November</string>
+    <string name="ELF_filter_month12">December</string>
+
+    <!--ReminderListFragment-->
+    <string name="RLF_toast_ok">Reminder completed</string>
+    <string name="RLF_toast_ko">ERROR. Reminder NOT completed</string>
+
+    <!--RemindersActivity-->
+    <string name="RA_title">My Reminder</string>
+    <string name="RA_toast_ok">Reminder date updated successfully</string>
+
+    <!--ProfileActivity-->
+    <string name="PA_title">User Profile</string>
+    <string name="PA_image">Select profile photo</string>
+    <string name="PA_toast_ok">User profile firstname and lastname updated successfully</string>
+    <string name="PA_toast_ko">ERROR. User profile not updated</string>
+
+    <!--ProfileActivity-->
+    <string name="ENA_toast_ko">Username or password are not valid</string>
+    <!-- Menu main -->
+    <string name="ProgettoPM" translatable="false">Navigation Drawer</string>
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open" translatable="false">Open</string>
+    <string name="nav_close" translatable="false">Close</string>
+
+    <!--Menu-->
+    <string name="txt_menu_main_1" translatable="false">Home</string>
+    <string name="txt_menu_main_2">My Expenses</string>
+    <string name="txt_menu_main_3">My Reminders</string>
+    <string name="txt_menu_main_4">Currency Converter</string>
+    <string name="txt_menu_main_5">My Profile</string>
+    <string name="txt_menu_main_6" translatable="false">Logout</string>
+
+    <string name="button_view_all">View expenses</string>
+
+    <string name="date_reminder">Reminder date</string>
+</resources>
