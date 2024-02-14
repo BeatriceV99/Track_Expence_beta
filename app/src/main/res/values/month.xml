@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="month">
+        <item>@string/ELF_filter_month</item>
+        <item>@string/ELF_filter_month1</item>
+        <item>@string/ELF_filter_month2</item>
+        <item>@string/ELF_filter_month3</item>
+        <item>@string/ELF_filter_month4</item>
+        <item>@string/ELF_filter_month5</item>
+        <item>@string/ELF_filter_month6</item>
+        <item>@string/ELF_filter_month7</item>
+        <item>@string/ELF_filter_month8</item>
+        <item>@string/ELF_filter_month9</item>
+        <item>@string/ELF_filter_month10</item>
+        <item>@string/ELF_filter_month11</item>
+        <item>@string/ELF_filter_month12</item>
+    </string-array>
+</resources>
