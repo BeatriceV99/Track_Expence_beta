@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "196583002149",
+    "firebase_url": "https://track-expense-beta-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "track-expense-beta",
+    "storage_bucket": "track-expense-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196583002149:android:3e072e2c4ffe6bc6fcafcc",
+        "android_client_info": {
+          "package_name": "com.example.trackexpence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp2eV9n3nFUYCM1ldhqHAr7mszgR1zsfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
