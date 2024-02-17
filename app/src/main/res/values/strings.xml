@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Track Expense</string>
+    <string name="app_name">Track Expense beta</string>
     <!-- Splash Activity -->
     <string name="neededPermissions">To go over, the app needs the PHOTO LIBRARY and NOTIFICATION PERMISSIONS</string>
     <string name="grantPermission">Grant Now</string>
@@ -116,4 +116,6 @@
     <string name="button_view_all">View expenses</string>
 
     <string name="date_reminder">Reminder date</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
