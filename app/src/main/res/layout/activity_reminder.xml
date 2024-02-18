@@ -4,7 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/menu_reminder"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    tools:context=".activities.ReminderActivity">
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
