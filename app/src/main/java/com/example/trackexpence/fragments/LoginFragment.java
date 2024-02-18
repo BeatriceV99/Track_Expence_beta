@@ -16,7 +16,7 @@ import com.example.trackexpence.activities.EnterActivity;
 import com.example.trackexpence.models.FirebaseWrapper;
 
 public class LoginFragment extends LogFragment {
-    @RequiresApi(api = Build.VERSION_CODES.TIRAMISU);
+    // @RequiresApi(api = Build.VERSION_CODES.TIRAMISU);
 
     @Override
     public void onCreate(Bundle savedInstance) {

@@ -20,7 +20,7 @@ import com.example.trackexpence.models.FirebaseWrapper;
 
 public class SignupFragment extends LogFragment {
     private final static String TAG = SignupFragment.class.getCanonicalName();
-    @RequiresApi(api = Build.VERSION_CODES.TIRAMISU);
+    // @RequiresApi(api = Build.VERSION_CODES.TIRAMISU);
     static String xUid = null;
     static String xFirstname = null;
     static String xLastname = null;
